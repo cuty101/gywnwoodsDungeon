@@ -3,7 +3,8 @@ My first CTF project
 
 To set up the CTF, you will need docker and SSH.
 
-run ./stupidDocker.sh\n
+run ./stupidDocker.sh
+
 Everything will be set up for you automagically and you can start playing.
 
 All tools that are needed to solve the challenges are preinstalled within the dockerfile.
