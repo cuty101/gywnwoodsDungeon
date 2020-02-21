@@ -1,0 +1,5 @@
+printf "\nTried dethrone King Gwydwoods? Not so easy.\n"
+printf "You were double crossed by one of your closest aide.\n"
+printf "You are thrown into the dungeon by that corrupted 455h013.\n"
+printf "Escape the dungeon with the skills you have and overthrow him.\n\n"
+printf "Get the flag and the flag will be the password for the next level\n\n"
