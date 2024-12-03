@@ -20,5 +20,4 @@ The source files are in the Dockerfile folder.
 There are source codes included for references  
 The source codes are not required to solve the challenges, so try not to refer to the source codes.  
 
-Solution for challenge4 can be found in others/chal4/cracker.py  
-If you give up, you can check out my intended solution.  
+If you give up, you can check out my intended solution.
